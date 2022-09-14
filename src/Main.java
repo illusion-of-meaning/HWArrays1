@@ -10,7 +10,7 @@ public class Main {
 
         float[] arrayFloat = {1.57f, 7.654f, 9.986f, 1.198f, 0.465f};
 
-        //2
+        // 2
         System.out.println("----------------------");
         for (int i = 0; i < arrayIntNumbers.length; i++) {
             System.out.print(arrayIntNumbers[i]);
